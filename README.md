@@ -142,7 +142,3 @@ I enjoy working on real-world analytics problems and building projects that alig
 🔗 **LinkedIn:** [https://www.linkedin.com/in/lavanya-lk](https://www.linkedin.com/in/lavanya-lk)
 📧 **Email:** [laavanya347@gmail.com](mailto:laavanya347@gmail.com)
 
----
-
-Just tell me 🚀
-```
