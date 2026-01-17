@@ -1,191 +1,148 @@
-# 📊 Customer Behavior Analysis — End-to-End Data Analytics Project
 
-An **industry-style, end-to-end data analytics project** demonstrating how a Data Analyst transforms raw customer data into **actionable business insights** using **Python, SQL, and Power BI**.
+# 📊 Customer Behavior Analysis – End-to-End Data Analytics Project
 
-This project closely reflects **real-world analytics workflows** used in retail and e-commerce organizations.
+## 🔍 Project Summary
+This project demonstrates a **complete, industry-standard data analytics workflow** designed to reflect real-world responsibilities of a **Data Analyst**. It covers the full lifecycle from raw data processing to SQL-based analysis and interactive Power BI dashboarding, delivering actionable business insights for stakeholders.
 
----
-
-## 🚀 Recruiter Snapshot
-
-* **Target Roles:** Data Analyst | Business Analyst | SQL Developer
-* **Industry Context:** Retail / E-commerce
-* **Core Skills:** Python, SQL, Power BI, Data Modeling, Business Analysis
-* **Outcome:** Converted raw customer shopping data into insights and dashboards to support business decisions
+**Tools Used:** Python, SQL, Power BI  
+**Domain:** Customer Analytics, Business Intelligence  
+**Project Type:** End-to-End Analytics Portfolio Project
 
 ---
 
-## 🔍 Business Objective
+## 🎯 Business Problem
+Retail organizations need to understand **customer purchasing behavior** to improve marketing strategies, customer retention, and revenue growth.
 
-The goal of this project is to analyze customer shopping behavior and answer critical business questions such as:
-
-* Who are the most valuable customers?
-* What factors drive repeat purchases and loyalty?
-* How do customer segments differ in buying behavior?
-* Which insights can improve retention and revenue?
+This project answers key business questions such as:
+- Who are the most valuable customers?
+- What drives repeat purchases?
+- Which customer segments generate the highest revenue?
+- How do purchasing patterns change over time?
 
 ---
 
 ## 🛠️ Tools & Technologies
-
-* **Python** — Data cleaning, EDA, feature preparation
-* **SQL (MySQL / PostgreSQL / SQL Server)** — Analytical querying & segmentation
-* **Power BI** — Interactive dashboards & KPIs
-* **Jupyter Notebook** — Analysis & documentation
-* **GitHub** — Version control & project sharing
-
----
-
-## 🧠 Skills Demonstrated
-
-| Skill Area        | Application                                    |
-| ----------------- | ---------------------------------------------- |
-| Python            | Data preprocessing, EDA, data transformation   |
-| SQL               | Complex analytical queries, segmentation, KPIs |
-| Power BI          | Interactive dashboards, filters, storytelling  |
-| Business Analysis | Customer insights, trend analysis              |
-| Communication     | Stakeholder-ready insights & reporting         |
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn
+- **SQL:** Data analysis queries, joins, aggregations, CTEs
+- **Power BI:** KPI dashboards, slicers, drill-downs
+- **Jupyter Notebook**
+- **CSV Dataset**
+- **Git & GitHub**
 
 ---
 
-## 🧩 Project Workflow
+## 🧱 Project Workflow
 
 ### 1️⃣ Data Preparation & EDA (Python)
+- Imported raw customer shopping data
+- Cleaned missing, duplicate, and inconsistent values
+- Performed Exploratory Data Analysis (EDA)
+- Identified trends, patterns, and relationships
+- Prepared data for SQL and BI tools
 
-* Imported raw customer shopping dataset
-* Cleaned missing and inconsistent data
-* Explored customer patterns and trends
-* Prepared structured data for SQL and BI tools
+### 2️⃣ Data Analysis (SQL)
+- Loaded cleaned data into a SQL database
+- Wrote analytical SQL queries to:
+  - Segment customers
+  - Analyze purchase frequency and order value
+  - Identify loyalty and revenue drivers
+- Simulated business-driven analytical scenarios
 
-### 2️⃣ Business Analysis (SQL)
-
-* Loaded processed data into SQL database
-* Wrote analytical SQL queries to:
-
-  * Segment customers
-  * Analyze purchase frequency and loyalty
-  * Identify revenue-driving behaviors
-* Simulated real business decision-making scenarios
-
-### 3️⃣ Visualization & Insights (Power BI)
-
-* Connected SQL database to Power BI
-* Built an interactive dashboard with:
-
-  * Key KPIs
-  * Customer segmentation
-  * Behavioral trends
-* Enabled data-driven decision support for stakeholders
+### 3️⃣ Visualization & Dashboarding (Power BI)
+- Connected SQL database to Power BI
+- Built an interactive dashboard with KPIs
+- Enabled slicers and drill-downs for exploration
+- Presented insights in a stakeholder-friendly format
 
 ### 4️⃣ Reporting & Presentation
-
-* Summarized insights into a structured project report
-* Created interview-ready presentation material
-* Translated technical findings into business recommendations
-
----
-
-## 📊 Key KPIs Tracked
-
-* Total Revenue
-* Average Order Value
-* Purchase Frequency
-* Repeat Customer Rate
-* Estimated Customer Lifetime Value
+- Created a detailed project report
+- Designed a presentation deck suitable for:
+  - Business reviews
+  - Stakeholder meetings
+  - Technical interviews
 
 ---
 
-## 💼 Business Questions Answered
-
-* Which customers contribute the highest revenue?
-* What shopping behaviors indicate loyalty?
-* How does purchase frequency vary across segments?
-* Which customer groups should be targeted for retention?
-
----
-
-## 📈 Key Insights Delivered
-
-* Identified high-value customer segments
-* Revealed behavioral patterns influencing repeat purchases
-* Highlighted revenue contribution by customer groups
-* Provided data-driven recommendations for retention strategies
+## 📊 Key Insights Generated
+- Customer segmentation based on purchase behavior
+- Identification of high-value and repeat customers
+- Revenue contribution by customer segments
+- Purchase frequency and trend analysis
+- Actionable KPIs for business decision-making
 
 ---
 
-## 📂 Project Structure
+## 📈 Business Impact
+- Enabled data-driven understanding of customer behavior
+- Reduced manual reporting effort through automation
+- Improved visibility into customer and revenue trends
+- Delivered insights aligned with real business needs
 
+---
+
+## 📂 Repository Structure
 ```
+
 Customer-Behavior-Analysis/
 │
 ├── Customer_Shopping_Behavior_Analysis.ipynb
 ├── customer_behavior_sql_queries.sql
 ├── customer_behavior_dashboard.pbix
-├── data/
-└── README.md
-```
+├── customer_shopping_behavior.csv
+├── Business Problem Document.pdf
+├── Customer Shopping Behavior Analysis.pdf
+├── Customer-Shopping-Behavior-Analysis.pptx
+├── README.md
+└── LICENSE
+
+````
 
 ---
 
 ## ▶️ How to Run This Project
-
-### Step 1: Clone the Repository
-
+1. Clone the repository:
 ```bash
 git clone https://github.com/Lavanya347/Customer_Behavior_Analysis.git
-cd Customer_Behavior_Analysis
+````
+
+2. Open the Jupyter Notebook and run data preparation steps
+3. Load cleaned data into SQL and execute analytical queries
+4. Open the Power BI dashboard and explore insights
+
+---
+
+## 🧠 Skills Demonstrated
+
+* Data Analysis & Interpretation
+* Exploratory Data Analysis (EDA)
+* SQL Querying & Business Analytics
+* Data Visualization & Dashboarding
+* KPI Development & Reporting
+* End-to-End Project Ownership
+
+---
+
+## 🛡️ License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 👩‍💻 About the Author
+
+Hi, I’m **Lavanya**, a **Data Analyst** passionate about transforming raw data into actionable business insights using **Python, SQL, and Power BI**.
+I enjoy working on real-world analytics problems and building projects that align with industry practices.
+
+---
+
+## 🔗 Connect With Me
+
+📄 **Resume:** [https://lavanya347.github.io/Assets/Lavanya_Data_Analyst_Resume_2025.pdf](https://lavanya347.github.io/Assets/Lavanya_Data_Analyst_Resume_2025.pdf)
+🌐 **Portfolio:** [https://lavanya347.github.io](https://lavanya347.github.io)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/lavanya-lk](https://www.linkedin.com/in/lavanya-lk)
+📧 **Email:** [laavanya347@gmail.com](mailto:laavanya347@gmail.com)
+
+---
+
+Just tell me 🚀
 ```
-
-### Step 2: Run Python Analysis
-
-* Open `Customer_Shopping_Behavior_Analysis.ipynb`
-* Execute data cleaning, EDA, and SQL loading steps
-
-### Step 3: Execute SQL Queries
-
-* Create a database in MySQL / PostgreSQL / SQL Server
-* Run queries from `customer_behavior_sql_queries.sql`
-
-### Step 4: View Power BI Dashboard
-
-* Open `customer_behavior_dashboard.pbix`
-* Connect to your SQL database
-* Explore insights interactively
-
----
-
-## ⚠️ Assumptions & Limitations
-
-* Dataset represents historical customer behavior
-* No real-time data integration
-* Customer Lifetime Value is estimated using available features
-
----
-
-## 🔮 Future Enhancements
-
-* Automate data refresh pipeline
-* Add predictive churn analysis
-* Integrate real-time dashboards
-
----
-
-## 👩‍💻 About Me
-
-**Lavanya K**
-Data Analyst with 1.5+ years of experience in **SQL, Python, Power BI, and analytics workflows**.
-Passionate about turning complex data into clear, actionable insights.
-
----
-
-## 📬 Connect With Me
-
-* 📧 Email: [laavanya347@gmail.com](mailto:laavanya347@gmail.com)
-* 🔗 LinkedIn: [https://www.linkedin.com/in/lavanya-lk/](https://www.linkedin.com/in/lavanya-lk/)
-* 💻 GitHub: [https://github.com/Lavanya347](https://github.com/Lavanya347)
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** — free to fork and showcase in your portfolio.
