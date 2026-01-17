@@ -135,10 +135,10 @@ I enjoy working on real-world analytics problems and building projects that alig
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect with Me
 
-📄 **Resume:** [https://lavanya347.github.io/Assets/Lavanya_Data_Analyst_Resume_2025.pdf](https://lavanya347.github.io/Assets/Lavanya_Data_Analyst_Resume_2025.pdf)
-🌐 **Portfolio:** [https://lavanya347.github.io](https://lavanya347.github.io)
-🔗 **LinkedIn:** [https://www.linkedin.com/in/lavanya-lk](https://www.linkedin.com/in/lavanya-lk)
-📧 **Email:** [laavanya347@gmail.com](mailto:laavanya347@gmail.com)
+📄 **[View My Resume](https://lavanya347.github.io/Assets/Lavanya_Data_Analyst_Resume.pdf)**  
+🔗 **[LinkedIn Profile](https://www.linkedin.com/in/lavanya-lk)**  
+📧 **Email:** lavanya347@gmail.com  
+🧑‍💻 **[Portfolio](https://lavanya347.github.io/)**
 
